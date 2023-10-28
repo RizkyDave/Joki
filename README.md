@@ -24,7 +24,7 @@
 <img src="https://github.com/Dappy-Net/Joki/blob/main/Assets/demo.png?raw=true" > <br>
 <img src="https://github.com/Dappy-Net/Joki/blob/main/Assets/demo-hp.jpeg?raw=true" style="width: 200px; height: 400px;"> <br>
 
-[See the full version](https://semaphoreify.gwryzen.repl.co)
+[See the full version](depnyk-css.gwryzen.repl.co)
 <br>
 
 # 🏗 Made With
