@@ -21,7 +21,8 @@
 
 # 🖼 Preview
 
-<img src="https://github.com/Dappy-Net/Semaphoreify/blob/main/assets/demos.png"> <br>
+<img src="https://github.com/Dappy-Net/Joki/blob/main/Assets/demo.png?raw=true" style="width: 550px; height: 550px;"> <br>
+<img src="https://github.com/Dappy-Net/Joki/blob/main/Assets/demo-hp.jpeg?raw=true" style="width: 200px; height: 400px;"> <br>
 
 [See the full version](https://semaphoreify.gwryzen.repl.co)
 <br>
@@ -35,12 +36,17 @@ and these are the requirements to make this projects.
  - [ionicons](https://ionic.io/ionicons) (for the icon stuff)
  - [boostrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)) 
 
-## Support Me 
+## 👛 Support Me 
 if you like our project you can support us by giving ⭐ in this repo
 and if anyone wants this project to continue you can support us using
 - 👝 paypal : paypal.me/RizkyDaffy
 - 🤑 saweria : https://trakteer.id/DappyNet
 
+## ⚠ CopyRight
+You can change the appearance of this template on your website, but this website has a copyright set by DappyNet as the creator of this web design. There are several ways to overcome this copyright problem, which are as follows.
+- 👝 Buy License: paypal.me/RizkyDaffy or https://trakteer.id/DappyNet
+- 💸 Free USE : with the consequence that the footer section cannot be replaced, whatever it is, if it is violated, I have the right to take legal action
+
 
 ## License
-This project is licensed under [MIT License](https://github.com/Dappy-Net/Semaphoreify/blob/main/LICENSE) 2022 DappyNet Industry
+This project is licensed under [MIT License](https://github.com/Dappy-Net/Joki/blob/main/LICENSE) 2022 DappyNet Industry
