@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Dappy-Net/Semaphoreify/blob/main/assets/Text%20to%20semaphore.png"> <br>
+  <img src="https://github.com/Dappy-Net/Joki/blob/main/Assets/banner.png?raw=true"> <br>
   <b>DEPNYK.CSS</b> <br>
   <i>A beatiful and simple Design For Your Joki ML Website</i>
 </p>
